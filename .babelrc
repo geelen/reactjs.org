@@ -19,7 +19,7 @@
         "pragma": "React.createElement",
       }
     ],
-    "@babel/flow"
+    "@babel/preset-flow"
   ],
   "plugins": [
     [
