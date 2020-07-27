@@ -10,7 +10,7 @@
     "@fab/actions": "^1.0.0-rc.5",
     "@fab/cli": "^1.0.0-rc.5",
     "@fab/input-static": "^1.0.0-rc.5",
-    "@fab/plugin-render-html": "^1.0.0-rc.5",
+    "@fab/plugin-render-html": "https://pkg.csb.dev/fab-spec/fab/commit/ab26d00f/@fab/plugin-render-html",
     "@fab/plugin-rewire-assets": "^1.0.0-rc.5",
     "@fab/server": "^1.0.0-rc.5",
     "babel-eslint": "^8.0.1",
