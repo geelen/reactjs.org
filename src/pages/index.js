@@ -50,7 +50,7 @@ class Home extends Component {
     return (
       <Layout location={location}>
         <TitleAndMetaTags
-          title="React &ndash; A JavaScript library for building user interfaces"
+          title="React &ndash; A JavaScript library for building user interfaces!!!!!!!!!!!!!!!!"
           canonicalUrl={createCanonicalUrl('/')}
         />
         <div
@@ -137,7 +137,7 @@ class Home extends Component {
                         fontSize: 30,
                       },
                     }}>
-                    A JavaScript library for building user interfaces
+                    A JavaScript library for building user interfaces!!!!
                   </p>
                   <Flex
                     valign="center"
@@ -160,7 +160,7 @@ class Home extends Component {
                     </CtaItem>
                     <CtaItem>
                       <ButtonLink to="/tutorial/tutorial.html" type="secondary">
-                        Take the Tutorial
+                        Take! the Tutorial??!!!!
                       </ButtonLink>
                     </CtaItem>
                   </Flex>
